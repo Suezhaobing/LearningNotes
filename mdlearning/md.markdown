@@ -64,7 +64,7 @@
 ## Markdown 链接
 ### 1. 链接
   * \[链接](链接地址) [My homepage](https://github.com/Suezhaobing)
-  * \<地址> <https://github.com/Suezhaobing.com>
+  * \<地址> <https://github.com/Suezhaobing>
 ### 2. 高级链接
   * 通过变量来设置一个链接，变量赋值在文档末尾进行\[][] [My homepage][github]
 - - -
