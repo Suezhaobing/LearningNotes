@@ -63,7 +63,7 @@
 
 ## Markdown 链接
 ### 1. 链接
-  * \[链接](链接地址) [My homepage](https://github.com/Suezhaobing.com)
+  * \[链接](链接地址) [My homepage](https://github.com/Suezhaobing)
   * \<地址> <https://github.com/Suezhaobing.com>
 ### 2. 高级链接
   * 通过变量来设置一个链接，变量赋值在文档末尾进行\[][] [My homepage][github]
@@ -78,5 +78,18 @@
   ![测试图片](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "GOOGLE")
 - - -
 
+## Markdown 表格
+### 1.使用|分隔
+\| 表头 | 表头 |
+\| --- | --- |
+\| 单元 | 单元 |
+ * \-：右对齐  \:- 左对齐  \:-: 居中对齐  
 
-[github]:https://github.com/Suezhaobing.com
+| language | complexity | difficuty |
+| :------- | :--------: | :----: |
+| CPP | 5 | 5 |
+| JAVA | 4 | 5 |
+| Python | 2 | 3 |
+| Markdown | 2 | 2 |
+
+[github]:https://github.com/Suezhaobing
